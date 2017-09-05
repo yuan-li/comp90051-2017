@@ -9,4 +9,4 @@ Week|Slides
 5|[2017S2_SML_Week05.pdf](slides/2017S2_SML_Week05.pdf)
 6|[2017S2_SML_Week06.pdf](slides/2017S2_SML_Week06.pdf)
 6|[6_backprop.ipynb](slides/6_backprop.ipynb) (view in [html](slides/6_backprop.html))
-
+7|[2017S2_SML_Week07.pdf](slides/2017S2_SML_Week07.pdf)
