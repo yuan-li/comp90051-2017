@@ -13,4 +13,4 @@ Week|Slides
 
 ---
 # Update
-2017-09-05 21:03 Correct the wrong OOB fomulas (Week 07)
+2017-09-05 21:03 Correct the wrong OOB formulas (Week 07)
