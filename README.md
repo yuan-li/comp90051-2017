@@ -9,12 +9,14 @@ Week|Slides
 5|[2017S2_SML_Week05.pdf](slides/2017S2_SML_Week05.pdf)
 6|[2017S2_SML_Week06.pdf](slides/2017S2_SML_Week06.pdf)
 6|[6_backprop.ipynb](slides/6_backprop.ipynb) (view in [html](slides/6_backprop.html))
+
 7|[2017S2_SML_Week07.pdf](slides/2017S2_SML_Week07.pdf)
 8|[2017S2_SML_Week08.pdf](slides/2017S2_SML_Week08.pdf)
 8|[8_em_algorithm.ipynb](slides/8_em_algorithm.ipynb) (view in [html](slides/8_em_algorithm.html))
 
 ---
 # Update
+* 2017-09-12 19:36 Print final results and add estimates for pi (Week 08, ipynb file)
 * 2017-09-12 15:56 Minor changes to page 15&25 (Week 08, slides)
 * 2017-09-12 14:00 Upload slides and code (Week 08)
 * 2017-09-05 21:03 Correct the wrong OOB formulas (Week 07, slides)
