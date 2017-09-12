@@ -15,4 +15,5 @@ Week|Slides
 
 ---
 # Update
+2017-09-12 14:00 Upload week08 slides and code
 2017-09-05 21:03 Correct the wrong OOB formulas (Week 07)
