@@ -10,6 +10,8 @@ Week|Slides
 6|[2017S2_SML_Week06.pdf](slides/2017S2_SML_Week06.pdf)
 6|[6_backprop.ipynb](slides/6_backprop.ipynb) (view in [html](slides/6_backprop.html))
 7|[2017S2_SML_Week07.pdf](slides/2017S2_SML_Week07.pdf)
+8|[2017S2_SML_Week08.pdf](slides/2017S2_SML_Week08.pdf)
+8|[8_em_algorithm.ipynb](slides/8_em_algorithm.ipynb) (view in [html](slides/8_em_algorithm.html))
 
 ---
 # Update
