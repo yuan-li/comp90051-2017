@@ -13,9 +13,11 @@ Week|Slides
 8|[2017S2_SML_Week08.pdf](slides/2017S2_SML_Week08.pdf)
 8|[8_em_algorithm.ipynb](slides/8_em_algorithm.ipynb) (view in [html](slides/8_em_algorithm.html))
 9|[2017S2_SML_Week09.pdf](slides/2017S2_SML_Week09.pdf)
+10|[2017S2_SML_Week10.pdf](slides/2017S2_SML_Week10.pdf)
 
 ---
 # Update
+* 2017-10-03 11:49 Upload slides (Week 10)
 * 2017-09-19 11:53 Upload slides (Week 09)
 * 2017-09-12 23:16 Fix formula for Z (Week 08, ipynb file)
 * 2017-09-12 15:56 Minor changes to page 15&25 (Week 08, slides)
