@@ -17,6 +17,7 @@ Week|Slides
 
 ---
 # Update
+* 2017-10-03 16:57 Some changes to page 8&12 (Week 10, slides)
 * 2017-10-03 11:49 Upload slides (Week 10)
 * 2017-09-19 11:53 Upload slides (Week 09)
 * 2017-09-12 23:16 Fix formula for Z (Week 08, ipynb file)
