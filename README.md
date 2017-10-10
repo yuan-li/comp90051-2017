@@ -17,6 +17,14 @@ Week|Slides
 11|[2017S2_SML_Week11.pdf](slides/2017S2_SML_Week11.pdf)
 
 ---
+# Tutor Feedback
+https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051
+
+Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instead.
+
+![Please choose either 5:15pm or 6:15pm.](https://raw.githubusercontent.com/yuan-li/comp90051-2017/master/classes.png)
+
+---
 # Update
 * 2017-10-10 11:57 Upload slides (Week 11)
 * 2017-10-03 16:57 Some changes to page 8&12 (Week 10, slides)
