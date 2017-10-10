@@ -18,7 +18,7 @@ Week|Slides
 
 ---
 # Tutor Feedback
-https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051
+[https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051](https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051)
 
 Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instead.
 
