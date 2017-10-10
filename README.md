@@ -14,9 +14,11 @@ Week|Slides
 8|[8_em_algorithm.ipynb](slides/8_em_algorithm.ipynb) (view in [html](slides/8_em_algorithm.html))
 9|[2017S2_SML_Week09.pdf](slides/2017S2_SML_Week09.pdf)
 10|[2017S2_SML_Week10.pdf](slides/2017S2_SML_Week10.pdf)
+11|[2017S2_SML_Week11.pdf](slides/2017S2_SML_Week11.pdf)
 
 ---
 # Update
+* 2017-10-10 11:57 Upload slides (Week 11)
 * 2017-10-03 16:57 Some changes to page 8&12 (Week 10, slides)
 * 2017-10-03 11:49 Upload slides (Week 10)
 * 2017-09-19 11:53 Upload slides (Week 09)
