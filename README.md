@@ -15,6 +15,7 @@ Week|Slides
 9|[2017S2_SML_Week09.pdf](slides/2017S2_SML_Week09.pdf)
 10|[2017S2_SML_Week10.pdf](slides/2017S2_SML_Week10.pdf)
 11|[2017S2_SML_Week11.pdf](slides/2017S2_SML_Week11.pdf)
+12|[2017S2_SML_Week12.pdf](slides/2017S2_SML_Week12.pdf)
 
 ---
 # Tutor Feedback
@@ -26,6 +27,7 @@ Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instea
 
 ---
 # Update
+* 2017-10-17 01:30 Upload slides (Week 12)
 * 2017-10-10 15:02 Fix typos in page 20 (Week 11, slides)
 * 2017-10-10 11:57 Upload slides (Week 11)
 * 2017-10-03 16:57 Some changes to page 8&12 (Week 10, slides)
