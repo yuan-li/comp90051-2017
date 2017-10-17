@@ -1,6 +1,17 @@
 # Workshop Slides
 for COMP90051 Statistical Machine Learning (2017 S2) - The University of Melbourne
 
+All files in one zip [[download](slides/all.zip)]
+
+---
+# Tutor Feedback
+[https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051](https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051)
+
+Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instead.
+
+![Please choose either 5:15pm or 6:15pm.](https://raw.githubusercontent.com/yuan-li/comp90051-2017/master/classes.png)
+
+---
 Week|Slides 
 ----|------
 2|[2017S2_SML_Week02.pdf](slides/2017S2_SML_Week02.pdf)
@@ -16,14 +27,6 @@ Week|Slides
 10|[2017S2_SML_Week10.pdf](slides/2017S2_SML_Week10.pdf)
 11|[2017S2_SML_Week11.pdf](slides/2017S2_SML_Week11.pdf)
 12|[2017S2_SML_Week12.pdf](slides/2017S2_SML_Week12.pdf)
-
----
-# Tutor Feedback
-[https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051](https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051)
-
-Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instead.
-
-![Please choose either 5:15pm or 6:15pm.](https://raw.githubusercontent.com/yuan-li/comp90051-2017/master/classes.png)
 
 ---
 # Update
