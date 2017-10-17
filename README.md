@@ -1,7 +1,7 @@
 # Workshop Slides
 for COMP90051 Statistical Machine Learning (2017 S2) - The University of Melbourne
 
-All files in one zip [[download](slides/all.zip)]
+All files in one zip [[download](https://yuan-li.github.io/comp90051-2017/slides/all.zip)]
 
 ---
 # Tutor Feedback
