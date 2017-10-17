@@ -1,10 +1,6 @@
-# Workshop Slides
-for COMP90051 Statistical Machine Learning (2017 S2) - The University of Melbourne
-
-All files in one zip [[download](https://yuan-li.github.io/comp90051-2017/slides/all.zip)]
-
----
 # Tutor Feedback
+We have finished all the tutorials this semester. Please fill out the survey to provide some feedback.
+
 [https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051](https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/feedback&subjCode=COMP90051)
 
 Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instead.
@@ -12,6 +8,10 @@ Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instea
 ![Please choose either 5:15pm or 6:15pm.](https://raw.githubusercontent.com/yuan-li/comp90051-2017/master/classes.png)
 
 ---
+# Workshop Slides
+for COMP90051 Statistical Machine Learning (2017 S2) - The University of Melbourne
+
+Download all files in one zip [[download](https://yuan-li.github.io/comp90051-2017/slides/all.zip)]
 
 Week|Slides 
 ----|------
