@@ -12,6 +12,7 @@ Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instea
 ![Please choose either 5:15pm or 6:15pm.](https://raw.githubusercontent.com/yuan-li/comp90051-2017/master/classes.png)
 
 ---
+
 Week|Slides 
 ----|------
 2|[2017S2_SML_Week02.pdf](slides/2017S2_SML_Week02.pdf)
