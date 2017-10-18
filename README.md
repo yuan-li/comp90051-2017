@@ -24,6 +24,7 @@ Week|Slides
 7|[2017S2_SML_Week07.pdf](slides/2017S2_SML_Week07.pdf)
 8|[2017S2_SML_Week08.pdf](slides/2017S2_SML_Week08.pdf)
 8|[8_em_algorithm.ipynb](slides/8_em_algorithm.ipynb) (view in [html](https://yuan-li.github.io/comp90051-2017/slides/8_em_algorithm.html))
+8|[8_em_algorithm_derivation.pdf](slides/8_em_algorithm_derivation.pdf)
 9|[2017S2_SML_Week09.pdf](slides/2017S2_SML_Week09.pdf)
 10|[2017S2_SML_Week10.pdf](slides/2017S2_SML_Week10.pdf)
 11|[2017S2_SML_Week11.pdf](slides/2017S2_SML_Week11.pdf)
@@ -31,6 +32,7 @@ Week|Slides
 
 ---
 # Update
+* 2017-10-19 00:55 Upload an explanation to the EM algorithm (Week 08)
 * 2017-10-17 01:30 Upload slides (Week 12)
 * 2017-10-10 15:02 Fix typos in page 20 (Week 11, slides)
 * 2017-10-10 11:57 Upload slides (Week 11)
