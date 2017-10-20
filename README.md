@@ -26,12 +26,14 @@ Week|Slides
 8|[8_em_algorithm.ipynb](slides/8_em_algorithm.ipynb) (view in [html](https://yuan-li.github.io/comp90051-2017/slides/8_em_algorithm.html))
 8|[8_em_algorithm_derivation.pdf](slides/8_em_algorithm_derivation.pdf)
 9|[2017S2_SML_Week09.pdf](slides/2017S2_SML_Week09.pdf)
+9|[9_spectral_clustering.ipynb](slides/9_spectral_clustering.ipynb) (view in [html](https://yuan-li.github.io/comp90051-2017/slides/9_spectral_clustering.html))
 10|[2017S2_SML_Week10.pdf](slides/2017S2_SML_Week10.pdf)
 11|[2017S2_SML_Week11.pdf](slides/2017S2_SML_Week11.pdf)
 12|[2017S2_SML_Week12.pdf](slides/2017S2_SML_Week12.pdf)
 
 ---
 # Update
+* 2017-10-21 01:50 Upload code for spectral clustering (Week 09)
 * 2017-10-19 00:55 Upload an explanation to the EM algorithm (Week 08)
 * 2017-10-17 01:30 Upload slides (Week 12)
 * 2017-10-10 15:02 Fix typos in page 20 (Week 11, slides)
