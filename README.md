@@ -11,7 +11,7 @@ Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instea
 # Workshop Slides
 for COMP90051 Statistical Machine Learning (2017 S2) - The University of Melbourne
 
-Download all files in one zip [[download](https://yuan-li.github.io/comp90051-2017/slides/all.zip)]
+Download all files in one zip [[download](https://www.dropbox.com/s/8zopdxwgrl7j5lu/all.zip?dl=0)]
 
 Week|Slides 
 ----|------
