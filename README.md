@@ -16,6 +16,7 @@ Download all files in one zip [[download](https://yuan-li.github.io/comp90051-20
 Week|Slides 
 ----|------
 2|[2017S2_SML_Week02.pdf](slides/2017S2_SML_Week02.pdf)
+2|[2_bias_var_MSE_and_estimators.ipynb](slides/2_bias_var_MSE_and_estimators.ipynb) (view in [html](https://yuan-li.github.io/comp90051-2017/slides/2_bias_var_MSE_and_estimators.html))
 3|[2017S2_SML_Week03.pdf](slides/2017S2_SML_Week03.pdf)
 4|[2017S2_SML_Week04.pdf](slides/2017S2_SML_Week04.pdf)
 5|[2017S2_SML_Week05.pdf](slides/2017S2_SML_Week05.pdf)
@@ -33,6 +34,7 @@ Week|Slides
 
 ---
 # Update
+* 2017-10-22 00:19 Upload code for bias, var, and MSE of estimators (Week 02)
 * 2017-10-21 01:50 Upload code for spectral clustering (Week 09)
 * 2017-10-19 00:55 Upload an explanation to the EM algorithm (Week 08)
 * 2017-10-17 01:30 Upload slides (Week 12)
