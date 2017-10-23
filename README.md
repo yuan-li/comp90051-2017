@@ -34,6 +34,7 @@ Week|Slides
 
 ---
 # Update
+* 2017-10-23 16:04 Use Acrobat PDFMaker to generate pdfs, no change to the content (Week02/03/05/06/07, slides)
 * 2017-10-23 15:51 Fix typos: m_FG[HT] * table_HT[HT] -> m_FG * table_HT in page22/23/25/27 (Week12, slides)
 * 2017-10-22 00:19 Upload code for bias, var, and MSE of estimators (Week 02)
 * 2017-10-21 01:50 Upload code for spectral clustering (Week 09)
