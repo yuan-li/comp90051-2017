@@ -11,7 +11,10 @@ Because the session at 12pm is not listed, please select 5:15pm or 6:15pm instea
 # Workshop Slides
 for COMP90051 Statistical Machine Learning (2017 S2) - The University of Melbourne
 
-Download all files in one zip [[download](https://www.dropbox.com/s/8zopdxwgrl7j5lu/all.zip?dl=0)]
+I've created a dropbox folder and uploaded all files there. [[dropbox link](https://www.dropbox.com/sh/pzv288revtxdlx4/AAD94SzskqsgYhW94Z45q_-La?dl=0&lst=)]
+
+You can save them to your dropbox (~7MB), or download them in one zip file by "Download" -> "Direct download".
+![Download all files in one zip file.](https://raw.githubusercontent.com/yuan-li/comp90051-2017/master/dropbox.png)
 
 Week|Slides 
 ----|------
