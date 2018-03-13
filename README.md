@@ -26,7 +26,7 @@ Week|Slides
 12|[2017S2_SML_Week12.pdf](slides/2017S2_SML_Week12.pdf)
 
 ---
-# Update
+# Updates
 * 2017-10-23 16:04 Use Acrobat PDFMaker to generate pdfs, no change to the content (Week02/03/05/06/07, slides)
 * 2017-10-23 15:51 Fix typos: m_FG[HT] * table_HT[HT] -> m_FG * table_HT in page22/23/25/27 (Week12, slides)
 * 2017-10-22 00:19 Upload code for bias, var, and MSE of estimators (Week 02)
